@@ -1,0 +1,27 @@
+.body {
+    display: flex;
+    justify-content: left;
+    gap: 20px;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    border: 1px solid rgb(219, 219, 219);
+    border-radius: 30px;
+    padding: 5px;
+    height: 920px;
+}
+
+.box {
+    background: rgb(99, 99, 99) ;
+    opacity: 50%;
+    border-radius: 20px;
+    position: relative;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 30px;
+    padding: 5px;
+    width: 80px;
+    text-align-last: center;
+    font: white;
+}
+.btn{
+    border-radius: 20px;
+}
